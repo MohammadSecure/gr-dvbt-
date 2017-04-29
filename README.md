@@ -52,3 +52,7 @@ if gr-dvbt is installed for the first time:
 
 sudo ldconfig
 
+**Notes**  
+For Create a tls file can use of vlc.
+You can convert a mp4 file to tls file by vlc, The following links will help you:
+https://features.en.softonic.com/vlc-media-player-as-video-converter
